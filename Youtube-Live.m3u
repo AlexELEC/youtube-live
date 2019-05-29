@@ -2,13 +2,13 @@
 #EXTINF:-1 group-title="YouTube-TV" tvg-logo="http://td-soft.narod.ru/logo/picon/1D261C52.png",112 Украина HD
 pipe:///usr/bin/youtube-play https://youtu.be/3Q11d6I21PE
 #EXTINF:-1 group-title="YouTube-TV" tvg-logo="http://td-soft.narod.ru/logo/picon/993958A4.png",24 Украина
-pipe:///usr/bin/youtube-play https://youtu.be/9s979zRCb3I
+pipe:///usr/bin/youtube-play https://youtu.be/U0iiFoLUye8
 #EXTINF:-1 group-title="YouTube-TV" tvg-logo="http://td-soft.narod.ru/logo/picon/F4875919.png",News One HD
 pipe:///usr/bin/youtube-play https://youtu.be/3e0FsU1N6OQ
 #EXTINF:-1 group-title="YouTube-TV" tvg-logo="https://gordonua.com/img/article/4861/92_tn.png",Наш Украина
 pipe:///usr/bin/youtube-play https://youtu.be/z05y_mzimIQ
 #EXTINF:-1 group-title="YouTube-TV" tvg-logo="https://pbs.twimg.com/profile_images/1084680647950716929/U8U2Ft0w_400x400.jpg",Rabinovich TV
-pipe:///usr/bin/youtube-play https://youtu.be/wnPp71F-xps
+pipe:///usr/bin/youtube-play https://youtu.be/FD_ITSIysow
 #EXTINF:-1 group-title="YouTube-TV" tvg-logo="https://cdn.kyivstar.ua/sites/default/files/channels_logo/pryamyj_1.png",Прямий HD
 pipe:///usr/bin/youtube-play https://youtu.be/nvGDS3JwTww
 #EXTINF:-1 group-title="YouTube-TV" tvg-logo="http://td-soft.narod.ru/logo/picon/CB78F54F.png",Громадське
@@ -16,9 +16,9 @@ pipe:///usr/bin/youtube-play https://youtu.be/YN5BPVWqWKM
 #EXTINF:-1 group-title="YouTube-TV" tvg-logo="https://liveam.tv/assets/images/chnl/espreso.png",Еспресо ТВ
 pipe:///usr/bin/youtube-play https://youtu.be/iTO9Nafubhk
 #EXTINF:-1 group-title="YouTube-TV" tvg-logo="http://td-soft.narod.ru/logo/picon/BCC8E834.png",ZIK (Украина)
-pipe:///usr/bin/youtube-play https://youtu.be/DORiRxxiB20
+pipe:///usr/bin/youtube-play https://youtu.be/U6NY23Riabc
 #EXTINF:-1 group-title="YouTube-TV" tvg-logo="http://td-soft.narod.ru/logo/picon/E44FE3AA.png",5 канал (Украина)
-pipe:///usr/bin/youtube-play https://youtu.be/pJoEbziZE0s
+pipe:///usr/bin/youtube-play https://youtu.be/Oa2hKEPNFDQ
 #EXTINF:-1 group-title="YouTube-TV" tvg-logo="http://td-soft.narod.ru/logo/picon/93A57784.png",НТВ HD
 pipe:///usr/bin/youtube-play https://youtu.be/XWwW1l_Ciwk
 #EXTINF:-1 group-title="YouTube-TV" tvg-logo="http://n.divan.tv/img/global_img/media_api/channels/1f6897ae/a17cbbe4_med.png",Настоящее время HD
