@@ -27,3 +27,9 @@ pipe:///usr/bin/youtube-play https://youtu.be/yGIJgHYkcoE
 pipe:///usr/bin/youtube-play https://youtu.be/8T9SFZDP60Q
 #EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="http://trezvros.ru/upload/event/foto/e931da89d332414de7a9.png",Пятый канал
 pipe:///usr/bin/youtube-play https://youtu.be/yhEf1JbPuW8
+#EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="https://vivatech.cdn.mediactive-network.net/www-site/uploads/2019/03/media-partners-euronews.png",Euronews
+pipe:///usr/bin/youtube-play https://youtu.be/Fe8sJKlOtyg
+#EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="https://imgtest.mir24.tv/images/mir_24_main_logo.png",Мир 24
+pipe:///usr/bin/youtube-play https://youtu.be/iItdeYvB_6k
+#EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="https://nukussat.clan.su/_ph/8/607548151.png",Первый канал Евразия
+pipe:///usr/bin/youtube-play https://youtu.be/SIobeNXLIqo
