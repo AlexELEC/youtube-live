@@ -2,7 +2,7 @@
 #EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="http://td-soft.narod.ru/logo/picon/1D261C52.png",112 Украина HD
 pipe:///usr/bin/youtube-play https://youtu.be/3Q11d6I21PE
 #EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="http://td-soft.narod.ru/logo/picon/993958A4.png",24 Украина
-pipe:///usr/bin/youtube-play https://youtu.be/AY2eIKY_C68
+pipe:///usr/bin/youtube-play https://youtu.be/ONMYLVfJ7LA
 #EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="http://td-soft.narod.ru/logo/picon/F4875919.png",News One HD
 pipe:///usr/bin/youtube-play https://youtu.be/3e0FsU1N6OQ
 #EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="https://gordonua.com/img/article/4861/92_tn.png",Наш Украина
