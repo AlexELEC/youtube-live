@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="http://td-soft.narod.ru/logo/picon/1D261C52.png",112 Украина HD
+#EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="http://td-soft.narod.ru/logo/picon/1D261C52.png",112 Украина
 pipe:///usr/bin/youtube-play https://youtu.be/3Q11d6I21PE
 #EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="http://td-soft.narod.ru/logo/picon/993958A4.png",24 Украина
 pipe:///usr/bin/youtube-play https://youtu.be/AY2eIKY_C68
-#EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="http://td-soft.narod.ru/logo/picon/F4875919.png",News One HD
+#EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="http://td-soft.narod.ru/logo/picon/F4875919.png",NewsOne
 pipe:///usr/bin/youtube-play https://youtu.be/3e0FsU1N6OQ
-#EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="https://gordonua.com/img/article/4861/92_tn.png",Наш Украина
+#EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="https://gordonua.com/img/article/4861/92_tn.png",Maxxi-TV
 pipe:///usr/bin/youtube-play https://youtu.be/dktSRgBzANg
-#EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="https://cdn.kyivstar.ua/sites/default/files/channels_logo/pryamyj_1.png",Прямий HD
+#EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="https://cdn.kyivstar.ua/sites/default/files/channels_logo/pryamyj_1.png",Прямий
 pipe:///usr/bin/youtube-play https://youtu.be/nvGDS3JwTww
 #EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="http://td-soft.narod.ru/logo/picon/CB78F54F.png",Громадське
 pipe:///usr/bin/youtube-play https://youtu.be/YN5BPVWqWKM
-#EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="https://liveam.tv/assets/images/chnl/espreso.png",Еспресо ТВ
+#EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="https://liveam.tv/assets/images/chnl/espreso.png",Eспресо TV
 pipe:///usr/bin/youtube-play https://youtu.be/iTO9Nafubhk
-#EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="http://td-soft.narod.ru/logo/picon/BCC8E834.png",ZIK (Украина)
+#EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="http://td-soft.narod.ru/logo/picon/BCC8E834.png",Zik HD
 pipe:///usr/bin/youtube-play https://youtu.be/0gQDBT0CWgM
-#EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="http://td-soft.narod.ru/logo/picon/E44FE3AA.png",5 канал (Украина)
+#EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="http://td-soft.narod.ru/logo/picon/E44FE3AA.png",5 канал Украина
 pipe:///usr/bin/youtube-play https://youtu.be/RCJ_mvVnduU
-#EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="http://td-soft.narod.ru/logo/picon/93A57784.png",НТВ HD
+#EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="http://td-soft.narod.ru/logo/picon/93A57784.png",НТВ
 pipe:///usr/bin/youtube-play https://youtu.be/XWwW1l_Ciwk
 #EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="http://n.divan.tv/img/global_img/media_api/channels/1f6897ae/a17cbbe4_med.png",Настоящее время HD
 pipe:///usr/bin/youtube-play https://youtu.be/yGIJgHYkcoE
@@ -25,7 +25,7 @@ pipe:///usr/bin/youtube-play https://youtu.be/yGIJgHYkcoE
 pipe:///usr/bin/youtube-play https://youtu.be/8T9SFZDP60Q
 #EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="http://trezvros.ru/upload/event/foto/e931da89d332414de7a9.png",Пятый канал
 pipe:///usr/bin/youtube-play https://youtu.be/yhEf1JbPuW8
-#EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="https://vivatech.cdn.mediactive-network.net/www-site/uploads/2019/03/media-partners-euronews.png",Euronews
+#EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="https://vivatech.cdn.mediactive-network.net/www-site/uploads/2019/03/media-partners-euronews.png",EuroNews
 pipe:///usr/bin/youtube-play https://youtu.be/Kzjav_uQOYc
 #EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="https://imgtest.mir24.tv/images/mir_24_main_logo.png",Мир 24
 pipe:///usr/bin/youtube-play https://youtu.be/iItdeYvB_6k
