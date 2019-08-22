@@ -14,9 +14,9 @@ pipe:///usr/bin/youtube-play https://youtu.be/YN5BPVWqWKM
 #EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="https://liveam.tv/assets/images/chnl/espreso.png",Eспресо TV
 pipe:///usr/bin/youtube-play https://youtu.be/iTO9Nafubhk
 #EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="http://td-soft.narod.ru/logo/picon/BCC8E834.png",Zik HD
-pipe:///usr/bin/youtube-play https://youtu.be/0gQDBT0CWgM
+pipe:///usr/bin/youtube-play https://youtu.be/UxIfSqjdrVU
 #EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="http://td-soft.narod.ru/logo/picon/E44FE3AA.png",5 канал Украина
-pipe:///usr/bin/youtube-play https://youtu.be/RCJ_mvVnduU
+pipe:///usr/bin/youtube-play https://youtu.be/vI9-06WmOnM
 #EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="http://td-soft.narod.ru/logo/picon/93A57784.png",НТВ
 pipe:///usr/bin/youtube-play https://youtu.be/XWwW1l_Ciwk
 #EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="http://n.divan.tv/img/global_img/media_api/channels/1f6897ae/a17cbbe4_med.png",Настоящее время HD
@@ -24,10 +24,12 @@ pipe:///usr/bin/youtube-play https://youtu.be/yGIJgHYkcoE
 #EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="http://td-soft.narod.ru/logo/picon/EAFDBA7F.png",Россия 24
 pipe:///usr/bin/youtube-play https://youtu.be/8T9SFZDP60Q
 #EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="http://trezvros.ru/upload/event/foto/e931da89d332414de7a9.png",Пятый канал
-pipe:///usr/bin/youtube-play https://youtu.be/yhEf1JbPuW8
+pipe:///usr/bin/youtube-play https://youtu.be/NzLwtZGtHEc
 #EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="https://vivatech.cdn.mediactive-network.net/www-site/uploads/2019/03/media-partners-euronews.png",EuroNews
-pipe:///usr/bin/youtube-play https://youtu.be/Kzjav_uQOYc
+pipe:///usr/bin/youtube-play https://youtu.be/X40Sc4-HiHk
 #EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="https://imgtest.mir24.tv/images/mir_24_main_logo.png",Мир 24
 pipe:///usr/bin/youtube-play https://youtu.be/iItdeYvB_6k
 #EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="https://nukussat.clan.su/_ph/8/607548151.png",Первый канал Евразия
-pipe:///usr/bin/youtube-play https://youtu.be/aMTy6AGkrzk
+pipe:///usr/bin/youtube-play https://youtu.be/ZgMCaLnHMME
+#EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="http://td-soft.narod.ru/logo/picon/CAD301D4.png",Дождь
+pipe:///usr/bin/youtube-play https://youtu.be/3YzUrasFSXs
