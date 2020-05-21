@@ -1,23 +1,21 @@
 #EXTM3U
-#EXTINF:-1 group-title="Новости" tvg-logo="http://td-soft.narod.ru/logo/picon/1D261C52.png",112 Украина
+#EXTINF:-1 group-title="Новости" tvg-logo="http://td-soft.narod.ru/logo/picon/1D261C52.png",112 Украина HD
 https://youtu.be/3Q11d6I21PE
-#EXTINF:-1 group-title="Новости" tvg-logo="http://td-soft.narod.ru/logo/picon/993958A4.png",24 Украина
+#EXTINF:-1 group-title="Новости" tvg-logo="http://td-soft.narod.ru/logo/picon/993958A4.png",24 Канал HD
 https://youtu.be/AZtwNQMkKgs
 #EXTINF:-1 group-title="Новости" tvg-logo="http://td-soft.narod.ru/logo/picon/E44FE3AA.png",5 канал Украина
 https://youtu.be/nHXh24x1KmQ
-#EXTINF:-1 group-title="Новости" tvg-logo="http://td-soft.narod.ru/logo/picon/F4875919.png",NewsOne
+#EXTINF:-1 group-title="Новости" tvg-logo="http://td-soft.narod.ru/logo/picon/F4875919.png",News One HD
 https://youtu.be/3e0FsU1N6OQ
-#EXTINF:-1 group-title="Новости" tvg-logo="https://cdnua03.hls.tv/cdn/logo/c3aae5069c8455c31f002b9977e2341d_high.png",Украина 24
+#EXTINF:-1 group-title="Новости" tvg-logo="https://cdnua03.hls.tv/cdn/logo/c3aae5069c8455c31f002b9977e2341d_high.png",Україна 24
 https://youtu.be/8cGVP_rfH0M
-#EXTINF:-1 group-title="Новости" tvg-logo="http://td-soft.narod.ru/logo/picon/BCC8E834.png",Zik
+#EXTINF:-1 group-title="Новости" tvg-logo="http://td-soft.narod.ru/logo/picon/BCC8E834.png",ZIK HD
 https://youtu.be/6lh9eQTRfRQ
-#EXTINF:-1 group-title="Новости" tvg-logo="https://cdn.kyivstar.ua/sites/default/files/channels_logo/pryamyj_1.png",Прямий
+#EXTINF:-1 group-title="Новости" tvg-logo="https://cdn.kyivstar.ua/sites/default/files/channels_logo/pryamyj_1.png",Прямий HD
 https://youtu.be/oIpySOGF5WQ
-#EXTINF:-1 group-title="Новости" tvg-logo="https://liveam.tv/assets/images/chnl/espreso.png",Eспресо TV
+#EXTINF:-1 group-title="Новости" tvg-logo="https://liveam.tv/assets/images/chnl/espreso.png",Еспресо HD
 https://youtu.be/6arO8p6gmBI
-#EXTINF:-1 group-title="Новости" tvg-logo="http://td-soft.narod.ru/logo/picon/93A57784.png",НТВ
-https://youtu.be/Im8q6l9j9ow
-#EXTINF:-1 group-title="Новости" tvg-logo="http://n.divan.tv/img/global_img/media_api/channels/1f6897ae/a17cbbe4_med.png",Настоящее время
+#EXTINF:-1 group-title="Новости" tvg-logo="http://n.divan.tv/img/global_img/media_api/channels/1f6897ae/a17cbbe4_med.png",Настоящее время HD
 https://youtu.be/i_OzppNpK5U
 #EXTINF:-1 group-title="Новости" tvg-logo="http://td-soft.narod.ru/logo/picon/EAFDBA7F.png",Россия 24
 https://youtu.be/8T9SFZDP60Q
