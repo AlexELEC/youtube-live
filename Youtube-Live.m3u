@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="Новости" tvg-logo="https://www.vyacheslavkhalanskiy.com.ua/images/articles/2/1542236992_24%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB.png",24 Канал HD
 https://youtu.be/1sBmOuXuVjs
-#EXTINF:-1 group-title="Новости" tvg-logo="https://sostav.ua/app/public/images/news/2014/06/13/de14b16f27c523700aa2d629e2309b42.jpg",5 канал Украина
+#EXTINF:-1 group-title="Новости" tvg-logo="https://bestradio.fm/uploads/posts/2015-10/1444992595_5-kanal-ua.jpg",5 канал Украина
 https://youtu.be/hqT30sSZTvI
 #EXTINF:-1 group-title="Новости" tvg-logo="https://cdn.kyivstar.ua/sites/default/files/channels_logo/pryamyj_1.png",Прямий HD
 https://youtu.be/JpTL53Su4U8
@@ -27,7 +27,5 @@ https://1plus1.video/tvguide/plusplus/online
 https://1plus1.video/tvguide/kvartaltv/online
 #EXTINF:-1 group-title="Украина" tvg-logo="https://cbilling.pw/img/streams/bigudi.png",Бигуди HD
 https://1plus1.video/tvguide/bigudi/online
-#EXTINF:-1 group-title="Украина" tvg-logo="https://i.pinimg.com/originals/98/04/91/9804914f8829b508e1ece7ac92a11e84.png",СПОРТ HD
-https://1plus1.video/tvguide/sport/online
 #EXTINF:-1 group-title="Украина" tvg-logo="https://cbilling.pw/img/streams/unian-hd-ua.png",Уніан HD
 https://1plus1.video/tvguide/uniantv/online
